@@ -18,6 +18,7 @@ click the "box" (word/dword)
 ![image](https://github.com/user-attachments/assets/570f5573-d1e7-4b5d-9de8-033b4a695e12)
 
 fill in the binary (grey and white is 1 or 0)
+sorry about the colors 
 ![image](https://github.com/user-attachments/assets/c69bfc40-5f8c-4dda-aa5c-f1fc6e742bfa)
 
 result 
